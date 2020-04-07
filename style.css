@@ -1,0 +1,19 @@
+section{
+    height: 100vh;
+    text-align: center;
+    background-color: red;
+}
+
+div.thumb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.thumb img {
+    width: 300px;
+}
+
+div.full img {
+    width: 700px;
+}
